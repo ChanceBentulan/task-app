@@ -36,3 +36,6 @@ POST /tasks/
   "description": "Task details"
 }
 ```
+
+<img width="1758" height="854" alt="image" src="https://github.com/user-attachments/assets/cfb8a889-a620-45f9-8214-34d78623d869" />
+
